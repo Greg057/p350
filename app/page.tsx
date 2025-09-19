@@ -39,6 +39,15 @@ export default function Portfolio() {
             customLinks: edu.custom_links
           }))
         }} />}
+        {portfolioData.customSections && portfolioData.customSections.map((section, index) => {
+          const layoutMap = {
+            'card': CustomSection3Static,
+            'list': CustomSectionListStatic,
+            'timeline': CustomSectionTimelineStatic
+          }
+          const LayoutComponent = layoutMap[section.layout_type] || CustomSection3Static
+          return <LayoutComponent key={index} section={section} />
+        })}
       </div>
     </main>
   )

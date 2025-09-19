@@ -255,5 +255,19 @@
       "logoUrl": null,
       "custom_links": []
     }
+  ],
+  "customSections": [
+    {
+      "section_name": "New Sectiond",
+      "layout_type": "timeline",
+      "items": [
+        {
+          "primaryTitle": "fewfeew",
+          "secondaryTitle": "fewfewf",
+          "logoUrl": null,
+          "customLinks": []
+        }
+      ]
+    }
   ]
 }
