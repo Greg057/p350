@@ -62,9 +62,12 @@ const RedditIcon = ({ className }: { className?: string }) => (
  * Uses the same approach as the SaaS code for consistency and optimization
  */
 export function renderIcon(iconKey: string, className?: string) {
+  // Combine default size classes with any additional classes
+  const iconClasses = className ? `w-4 h-4 ${className}` : 'w-4 h-4'
+
   // Handle custom SVG data (inline SVG strings)
   if (iconKey.startsWith('<svg')) {
-    return <div dangerouslySetInnerHTML={{ __html: iconKey }} className={className || 'w-4 h-4'} />
+    return <div dangerouslySetInnerHTML={{ __html: iconKey }} className={iconClasses} />
   }
 
   // Icon map using actual library components for better optimization
@@ -102,5 +105,5 @@ export function renderIcon(iconKey: string, className?: string) {
   }
 
   const IconComponent = iconMap[iconKey] || Globe
-  return <IconComponent className={className || 'w-4 h-4'} />
+  return <IconComponent className={iconClasses} />
 }

@@ -16,11 +16,56 @@
         "icon": "github",
         "title": "GitHub",
         "url": "https://github.com/janedoe"
+      },
+      {
+        "icon": "website",
+        "title": "reqr",
+        "url": "reqr"
+      },
+      {
+        "icon": "x",
+        "title": "reqr",
+        "url": "rewqr"
+      },
+      {
+        "icon": "instagram",
+        "title": "rewqr",
+        "url": "reqrerewq"
+      },
+      {
+        "icon": "youtube",
+        "title": "reqwrq",
+        "url": "rewqr"
+      },
+      {
+        "icon": "tiktok",
+        "title": "fefr",
+        "url": "frefer"
+      },
+      {
+        "icon": "discord",
+        "title": "frwef",
+        "url": "frwf"
+      },
+      {
+        "icon": "twitch",
+        "title": "frewf",
+        "url": "frewfwf"
+      },
+      {
+        "icon": "reddit",
+        "title": "rfe",
+        "url": "frew"
+      },
+      {
+        "icon": "video",
+        "title": "frew",
+        "url": "frewfrew"
       }
     ]
   },
   "selectedComponents": {
-    "userInfo": "userInfo4",
+    "userInfo": "userInfo3",
     "skills": "skills1",
     "projects": "projects1",
     "workExperience": "card",
