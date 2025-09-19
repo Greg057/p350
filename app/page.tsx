@@ -38,16 +38,17 @@ export default function Portfolio() {
             customLinks: edu.custom_links
           }))
         }} />}
-        {portfolioData.skills && <Skills1Static skills={portfolioData.skills} />}
-        {portfolioData.customSections && portfolioData.customSections.map((section, index) => {
-          const layoutMap = {
+        {portfolioData.customSections && portfolioData.customSections.find(s => s.id === "43748a2e-02f0-4246-bdb9-92be07b43c7a") && (() => {
+          const section = portfolioData.customSections.find(s => s.id === "43748a2e-02f0-4246-bdb9-92be07b43c7a")
+          const layoutMap: { [key: string]: any } = {
             'card': CustomSection3Static,
             'list': CustomSectionListStatic,
             'timeline': CustomSectionTimelineStatic
           }
-          const LayoutComponent = layoutMap[section.layout_type] || CustomSection3Static
-          return <LayoutComponent key={index} section={section} />
-        })}
+          const LayoutComponent = layoutMap[section!.layout_type] || CustomSection3Static
+          return <LayoutComponent section={section} />
+        })()}
+        {portfolioData.skills && <Skills1Static skills={portfolioData.skills} />}
       </div>
     </main>
   )
