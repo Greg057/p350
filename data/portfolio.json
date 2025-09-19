@@ -28,11 +28,11 @@
   },
   "sectionOrder": [
     "personal",
+    "projects",
     "experience",
     "education",
-    "projects",
-    "skills",
-    "43748a2e-02f0-4246-bdb9-92be07b43c7a"
+    "43748a2e-02f0-4246-bdb9-92be07b43c7a",
+    "skills"
   ],
   "skills": [
     {
