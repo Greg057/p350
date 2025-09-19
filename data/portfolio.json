@@ -165,21 +165,60 @@
       "name": "Portfolio Builder Web App",
       "description": "• Developed a customizable portfolio generator using Next.js and Supabase.<br>• Implemented user authentication, template themes, and image upload features.<br>• Deployed application on Vercel with continuous integration.",
       "picUrl": null,
-      "technologies": [],
+      "technologies": [
+        {
+          "name": "Next.js",
+          "logo": "/p350/icons/nextjs/nextjs-original.svg"
+        },
+        {
+          "name": "Supabase",
+          "logo": "/p350/icons/supabase/supabase-original.svg"
+        },
+        {
+          "name": "Vercel",
+          "logo": "/p350/icons/vercel/vercel-original.svg"
+        }
+      ],
       "custom_links": []
     },
     {
       "name": "Movie Recommendation System",
       "description": "• Built a Python-based ML model using scikit-learn to recommend movies with 82% accuracy.<br>• Deployed the model as a Flask API and integrated it into a React front end.<br>• Conducted A/B testing with 200+ users, improving recommendation relevance by 18%.",
       "picUrl": null,
-      "technologies": [],
+      "technologies": [
+        {
+          "name": "Python",
+          "logo": "/p350/icons/python/python-original.svg"
+        },
+        {
+          "name": "scikit-learn",
+          "logo": "/p350/icons/scikitlearn/scikitlearn-original.svg"
+        },
+        {
+          "name": "Flask",
+          "logo": "/p350/icons/flask/flask-original.svg"
+        },
+        {
+          "name": "React",
+          "logo": "/p350/icons/react/react-original.svg"
+        }
+      ],
       "custom_links": []
     },
     {
       "name": "Task Manager Mobile App",
       "description": "• Created a cross-platform mobile app using React Native for task tracking.<br>• Integrated push notifications and offline storage using SQLite.<br>• Achieved 1,000+ downloads with positive feedback on UI/UX.",
       "picUrl": null,
-      "technologies": [],
+      "technologies": [
+        {
+          "name": "React Native",
+          "logo": "/p350/icons/reactnative/reactnative-original.svg"
+        },
+        {
+          "name": "SQLite",
+          "logo": "/p350/icons/sqlite/sqlite-original.svg"
+        }
+      ],
       "custom_links": []
     }
   ],
