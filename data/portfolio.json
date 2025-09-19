@@ -1,0 +1,220 @@
+{
+  "personal": {
+    "full_name": "john",
+    "title": "Software Engineer",
+    "about_me": "Software Engineer at TechWave Solutions specializing in scalable web applications, cloud platforms, and Agile methodologies. Passionate about building user-friendly solutions and continuously learning emerging technologies such as artificial intelligence, machine learning, and cloud-native applications. Experienced in Java, Python, JavaScript, and cloud DevOps tools.",
+    "location": "San Francisco, CA",
+    "avatarUrl": null,
+    "cvUrl": "/p350/user-files/2547cc8f-d92f-4bf6-b05b-e06fce348363/cv.pdf",
+    "custom_links": [
+      {
+        "icon": "linkedin",
+        "title": "LinkedIn",
+        "url": "https://linkedin.com/in/janedoe"
+      },
+      {
+        "icon": "github",
+        "title": "GitHub",
+        "url": "https://github.com/janedoe"
+      }
+    ]
+  },
+  "selectedComponents": {
+    "userInfo": "userInfo4",
+    "skills": "skills1",
+    "projects": "projects1",
+    "workExperience": "card",
+    "education": "card"
+  },
+  "skills": [
+    {
+      "name": "Java",
+      "logo": "/p350/icons/java/java-original.svg"
+    },
+    {
+      "name": "Python",
+      "logo": "/p350/icons/python/python-original.svg"
+    },
+    {
+      "name": "JavaScript",
+      "logo": "/p350/icons/javascript/javascript-original.svg"
+    },
+    {
+      "name": "React",
+      "logo": "/p350/icons/react/react-original.svg"
+    },
+    {
+      "name": "Node.js",
+      "logo": "/p350/icons/nodejs/nodejs-original.svg"
+    },
+    {
+      "name": "TypeScript",
+      "logo": "/p350/icons/typescript/typescript-original.svg"
+    },
+    {
+      "name": "C++",
+      "logo": "/p350/icons/cplusplus/cplusplus-original.svg"
+    },
+    {
+      "name": "Next.js",
+      "logo": "/p350/icons/nextjs/nextjs-original.svg"
+    },
+    {
+      "name": "Spring Boot",
+      "logo": "/p350/icons/spring/spring-original.svg"
+    },
+    {
+      "name": "Express.js",
+      "logo": "/p350/icons/express/express-original.svg"
+    },
+    {
+      "name": "Django",
+      "logo": "/p350/icons/django/django-plain.svg"
+    },
+    {
+      "name": "PostgreSQL",
+      "logo": "/p350/icons/postgresql/postgresql-original.svg"
+    },
+    {
+      "name": "MongoDB",
+      "logo": "/p350/icons/mongodb/mongodb-original.svg"
+    },
+    {
+      "name": "MySQL",
+      "logo": "/p350/icons/mysql/mysql-original.svg"
+    },
+    {
+      "name": "Redis",
+      "logo": "/p350/icons/redis/redis-original.svg"
+    },
+    {
+      "name": "AWS",
+      "logo": "/p350/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+    },
+    {
+      "name": "Docker",
+      "logo": "/p350/icons/docker/docker-original.svg"
+    },
+    {
+      "name": "Kubernetes",
+      "logo": "/p350/icons/kubernetes/kubernetes-original.svg"
+    },
+    {
+      "name": "Git",
+      "logo": "/p350/icons/git/git-original.svg"
+    },
+    {
+      "name": "Jenkins",
+      "logo": "/p350/icons/jenkins/jenkins-original.svg"
+    },
+    {
+      "name": "CI/CD pipelines",
+      "logo": null
+    },
+    {
+      "name": "REST APIs",
+      "logo": null
+    },
+    {
+      "name": "GraphQL",
+      "logo": "/p350/icons/graphql/graphql-plain.svg"
+    },
+    {
+      "name": "Unit Testing",
+      "logo": null
+    },
+    {
+      "name": "Agile/Scrum",
+      "logo": null
+    },
+    {
+      "name": "Test-Driven Development (TDD)",
+      "logo": null
+    },
+    {
+      "name": "GitHub Actions",
+      "logo": "/p350/icons/githubactions/githubactions-original.svg"
+    },
+    {
+      "name": "Supabase",
+      "logo": "/p350/icons/supabase/supabase-original.svg"
+    },
+    {
+      "name": "Vercel",
+      "logo": "/p350/icons/vercel/vercel-original.svg"
+    },
+    {
+      "name": "scikit-learn",
+      "logo": "/p350/icons/scikitlearn/scikitlearn-original.svg"
+    },
+    {
+      "name": "Flask",
+      "logo": "/p350/icons/flask/flask-original.svg"
+    },
+    {
+      "name": "React Native",
+      "logo": "/p350/icons/reactnative/reactnative-original.svg"
+    },
+    {
+      "name": "SQLite",
+      "logo": "/p350/icons/sqlite/sqlite-original.svg"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio Builder Web App",
+      "description": "• Developed a customizable portfolio generator using Next.js and Supabase.<br>• Implemented user authentication, template themes, and image upload features.<br>• Deployed application on Vercel with continuous integration.",
+      "picUrl": null,
+      "technologies": [],
+      "custom_links": []
+    },
+    {
+      "name": "Movie Recommendation System",
+      "description": "• Built a Python-based ML model using scikit-learn to recommend movies with 82% accuracy.<br>• Deployed the model as a Flask API and integrated it into a React front end.<br>• Conducted A/B testing with 200+ users, improving recommendation relevance by 18%.",
+      "picUrl": null,
+      "technologies": [],
+      "custom_links": []
+    },
+    {
+      "name": "Task Manager Mobile App",
+      "description": "• Created a cross-platform mobile app using React Native for task tracking.<br>• Integrated push notifications and offline storage using SQLite.<br>• Achieved 1,000+ downloads with positive feedback on UI/UX.",
+      "picUrl": null,
+      "technologies": [],
+      "custom_links": []
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "TechWave Solutions",
+      "position": "Software Engineer",
+      "location": "San Francisco, CA",
+      "start_date": "Jan 2021",
+      "end_date": "Present",
+      "description": "• Designed and developed scalable microservices in Java and Node.js, reducing system downtime by 30%.<br>• Implemented CI/CD pipelines with GitHub Actions and Docker, improving deployment speed by 40%.<br>• Optimized database queries in PostgreSQL, cutting average response time by 25%.<br>• Collaborated with a team of 8 engineers using Agile, consistently delivering features within sprint deadlines.<br>• Mentored junior developers, leading to faster onboarding and reduced code review issues.",
+      "logoUrl": null,
+      "custom_links": []
+    },
+    {
+      "company": "BrightApps Inc.",
+      "position": "Junior Software Engineer",
+      "location": "San Jose, CA",
+      "start_date": "Jun 2019",
+      "end_date": "Dec 2020",
+      "description": "• Built front-end features with React and integrated REST APIs for an e-commerce platform serving 50k+ users.<br>• Wrote unit and integration tests, increasing code coverage from 60% to 85%.<br>• Supported migration of legacy PHP application to Node.js, improving maintainability.<br>• Partnered with UX designers to enhance customer checkout flow, resulting in 15% increase in conversions.<br>• Automated deployment scripts with Jenkins, cutting manual release steps by 70%.",
+      "logoUrl": null,
+      "custom_links": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Science",
+      "university": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "start_year": "2015",
+      "end_year": "2019",
+      "description": "Relevant Coursework:<br>Data Structures, Algorithms, Operating Systems, Databases, Machine Learning, Software Engineering.",
+      "logoUrl": null,
+      "custom_links": []
+    }
+  ]
+}
