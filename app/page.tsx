@@ -11,8 +11,6 @@ export default function Portfolio() {
     <main className="min-h-screen bg-background">
       <div className="container mx-auto max-w-4xl px-4 py-8">
         <UserInfo4Static personal={portfolioData.personal} />
-        {portfolioData.skills && <Skills1Static skills={portfolioData.skills} />}
-        {portfolioData.projects && <Projects1Static projects={portfolioData.projects} />}
         {portfolioData.workExperience && <CustomSection3Static section={{
           section_name: "Work Experience",
           layout_type: "card",
@@ -39,6 +37,8 @@ export default function Portfolio() {
             customLinks: edu.custom_links
           }))
         }} />}
+        {portfolioData.projects && <Projects1Static projects={portfolioData.projects} />}
+        {portfolioData.skills && <Skills1Static skills={portfolioData.skills} />}
         {portfolioData.customSections && portfolioData.customSections.map((section, index) => {
           const layoutMap = {
             'card': CustomSection3Static,
