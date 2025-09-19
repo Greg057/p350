@@ -175,15 +175,15 @@
       "picUrl": null,
       "technologies": [
         {
-          "name": "Next.js",
+          "name": "nextjs",
           "logo": "/p350/icons/nextjs/nextjs-original.svg"
         },
         {
-          "name": "Supabase",
+          "name": "supabase",
           "logo": "/p350/icons/supabase/supabase-original.svg"
         },
         {
-          "name": "Vercel",
+          "name": "vercel",
           "logo": "/p350/icons/vercel/vercel-original.svg"
         }
       ],
@@ -195,19 +195,19 @@
       "picUrl": null,
       "technologies": [
         {
-          "name": "Python",
+          "name": "python",
           "logo": "/p350/icons/python/python-original.svg"
         },
         {
-          "name": "scikit-learn",
+          "name": "scikitlearn",
           "logo": "/p350/icons/scikitlearn/scikitlearn-original.svg"
         },
         {
-          "name": "Flask",
-          "logo": "/p350/icons/flask/flask-original.svg"
+          "name": "flask",
+          "logo": "https://ugsufdqwqaiqbawfsxwp.supabase.co/storage/v1/object/public/user-files/2547cc8f-d92f-4bf6-b05b-e06fce348363/technology-logos/flask.png"
         },
         {
-          "name": "React",
+          "name": "react",
           "logo": "/p350/icons/react/react-original.svg"
         }
       ],
@@ -219,11 +219,11 @@
       "picUrl": null,
       "technologies": [
         {
-          "name": "React Native",
+          "name": "reactnative",
           "logo": "/p350/icons/reactnative/reactnative-original.svg"
         },
         {
-          "name": "SQLite",
+          "name": "sqlite",
           "logo": "/p350/icons/sqlite/sqlite-original.svg"
         }
       ],
