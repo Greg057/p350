@@ -4,7 +4,7 @@
     "title": "Software Engineer",
     "about_me": "Software Engineer at TechWave Solutions specializing in scalable web applications, cloud platforms, and Agile methodologies. Passionate about building user-friendly solutions and continuously learning emerging technologies such as artificial intelligence, machine learning, and cloud-native applications. Experienced in Java, Python, JavaScript, and cloud DevOps tools.",
     "location": "San Francisco, CA",
-    "avatarUrl": null,
+    "avatarUrl": "/p350/user-files/2547cc8f-d92f-4bf6-b05b-e06fce348363/avatar-1758286731988.png",
     "cvUrl": "/p350/user-files/2547cc8f-d92f-4bf6-b05b-e06fce348363/cv.pdf",
     "custom_links": [
       {
@@ -192,11 +192,11 @@
     {
       "name": "Movie Recommendation System",
       "description": "• Built a Python-based ML model using scikit-learn to recommend movies with 82% accuracy.<br>• Deployed the model as a Flask API and integrated it into a React front end.<br>• Conducted A/B testing with 200+ users, improving recommendation relevance by 18%.",
-      "picUrl": null,
+      "picUrl": "/p350/user-files/2547cc8f-d92f-4bf6-b05b-e06fce348363/projects/project-9d58c707-1f68-4911-96a7-ddf6476d5795-1758286742958.png",
       "technologies": [
         {
           "name": "python",
-          "logo": "/p350/icons/python/python-original.svg"
+          "logo": "/icons/python/python-plain.svg"
         },
         {
           "name": "scikitlearn",
@@ -204,14 +204,20 @@
         },
         {
           "name": "flask",
-          "logo": "https://ugsufdqwqaiqbawfsxwp.supabase.co/storage/v1/object/public/user-files/2547cc8f-d92f-4bf6-b05b-e06fce348363/technology-logos/flask.png"
+          "logo": "/p350/user-files/2547cc8f-d92f-4bf6-b05b-e06fce348363/technology-logos/flask.png"
         },
         {
           "name": "react",
           "logo": "/p350/icons/react/react-original.svg"
         }
       ],
-      "custom_links": []
+      "custom_links": [
+        {
+          "icon": "instagram",
+          "title": "fefwef",
+          "url": "fewfw"
+        }
+      ]
     },
     {
       "name": "Task Manager Mobile App",
@@ -238,7 +244,7 @@
       "start_date": "Jan 2021",
       "end_date": "Present",
       "description": "• Designed and developed scalable microservices in Java and Node.js, reducing system downtime by 30%.<br>• Implemented CI/CD pipelines with GitHub Actions and Docker, improving deployment speed by 40%.<br>• Optimized database queries in PostgreSQL, cutting average response time by 25%.<br>• Collaborated with a team of 8 engineers using Agile, consistently delivering features within sprint deadlines.<br>• Mentored junior developers, leading to faster onboarding and reduced code review issues.",
-      "logoUrl": null,
+      "logoUrl": "/p350/user-files/2547cc8f-d92f-4bf6-b05b-e06fce348363/work-experience/0ea98c97-f983-4815-87ed-c5a1d349dc08-logo-1758286758289.png",
       "custom_links": []
     },
     {
@@ -273,8 +279,19 @@
         {
           "primaryTitle": "fewfeew",
           "secondaryTitle": "fewfewf",
-          "logoUrl": null,
-          "customLinks": []
+          "logoUrl": "/p350/user-files/2547cc8f-d92f-4bf6-b05b-e06fce348363/custom-sections/04940b02-492b-42cc-97b1-6105027eed53-logo-1758286703465.png",
+          "customLinks": [
+            {
+              "icon": "website",
+              "title": "fefw",
+              "url": "fefew"
+            },
+            {
+              "icon": "github",
+              "title": "fefw",
+              "url": "fewf"
+            }
+          ]
         }
       ]
     }
