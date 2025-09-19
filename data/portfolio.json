@@ -41,7 +41,7 @@
     },
     {
       "name": "Python",
-      "logo": "/p350/icons/python/python-original.svg"
+      "logo": "/p350/user-files/2547cc8f-d92f-4bf6-b05b-e06fce348363/technology-logos/python.png"
     },
     {
       "name": "JavaScript",
@@ -77,7 +77,7 @@
     },
     {
       "name": "Django",
-      "logo": "/p350/icons/django/django-plain.svg"
+      "logo": "/p350/icons/django/django-original.svg"
     },
     {
       "name": "PostgreSQL",
@@ -97,7 +97,7 @@
     },
     {
       "name": "AWS",
-      "logo": "/p350/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      "logo": "/p350/icons/amazonwebservices/amazonwebservices-original.svg"
     },
     {
       "name": "Docker",
@@ -125,7 +125,7 @@
     },
     {
       "name": "GraphQL",
-      "logo": "/p350/icons/graphql/graphql-plain.svg"
+      "logo": "/p350/icons/graphql/graphql-original.svg"
     },
     {
       "name": "Unit Testing",
@@ -196,7 +196,7 @@
       "technologies": [
         {
           "name": "python",
-          "logo": "/icons/python/python-plain.svg"
+          "logo": "/p350/icons/python/python-original.svg"
         },
         {
           "name": "scikitlearn",
